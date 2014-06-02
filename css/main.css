@@ -1,0 +1,28 @@
+body {
+  background-color: #f4f4f4;
+  font-family: Arial,sans-serif;
+  color: #333333;
+}
+
+header {
+  background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(99, 167, 208) 3%, rgb(49, 137, 191) 83%, rgb(60, 141, 190) 97%);
+  padding: 1em;
+  margin: 0.5em;
+  border-radius: 1em;
+}
+
+h1 {
+  font-size: 1.35em;
+  color: #a94d00;
+  text-transform: uppercase;
+  margin: .67em 0;
+}
+
+h2 {
+  font-size: 20px;
+  color: #000;
+}
+
+hr {
+  border-top: 1px solid #ccc;
+}
