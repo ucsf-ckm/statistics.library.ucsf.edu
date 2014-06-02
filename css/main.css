@@ -11,6 +11,11 @@ header {
   border-radius: 1em;
 }
 
+footer {
+  margin: 0 0 10px 0;
+  font-size: 1em;
+}
+
 h1 {
   font-size: 1.35em;
   color: #a94d00;
@@ -25,6 +30,7 @@ h2 {
 
 hr {
   border-top: 1px solid #ccc;
+  margin-bottom: 0;
 }
 
 table {
