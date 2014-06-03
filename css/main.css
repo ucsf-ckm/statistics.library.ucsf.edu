@@ -44,10 +44,10 @@ td {
   border-right: 1px solid #ccc;
 }
 
-.odd {
+tr:nth-child(odd) {
   background-color: #fff;
 }
 
-.even {
+tr:nth-child(even) {
   background-color: #e5e5e5;
 }
