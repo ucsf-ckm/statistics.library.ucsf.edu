@@ -6,6 +6,7 @@ layout: default
 For the **fiscal year 2011-12**.
 
 ---
+
 ## Library Resources
 <table class="sticky-enabled">
  <tr class="odd"><td>Volumes, all formats:</td><td>1,027,754</td> </tr>
@@ -15,6 +16,7 @@ For the **fiscal year 2011-12**.
  <tr class="odd"><td>External databases:</td><td>187</td> </tr>
 </table>
 ---
+
 ## Access
 <table class="sticky-enabled">
  <tr class="odd"><td>Hours open (per week), Parnassus Campus:</td><td>87.25</td> </tr>
@@ -24,6 +26,7 @@ For the **fiscal year 2011-12**.
  <tr class="odd"><td>Home page views:</td><td>917,652</td> </tr>
 </table>
 ---
+
 ## Education/Reference
 <table class="sticky-enabled">
  <tr class="odd"><td>Orientation and tour attendance:</td><td>421</td> </tr>
@@ -31,12 +34,14 @@ For the **fiscal year 2011-12**.
  <tr class="odd"><td>Total reference transactions:</td><td>27,295</td> </tr>
 </table>
 ---
+
 ## Collection Use
 <table class="sticky-enabled">
  <tr class="odd"><td>Book/materials checkout:</td><td>19,584</td> </tr>
  <tr class="even"><td>Registered borrowers:</td><td>3,713</td> </tr>
 </table>
 ---
+
 ## Interlibrary Loans
 <table class="sticky-enabled">
  <tr class="odd"><td>Items borrowed:</td><td>3,868</td> </tr>
