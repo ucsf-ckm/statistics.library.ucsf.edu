@@ -1,2 +1,0 @@
-statistics.library.ucsf.edu
-===========================
